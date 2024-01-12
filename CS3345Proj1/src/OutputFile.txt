@@ -1,0 +1,229 @@
+Flight 1: Dallas, San Francisco (Time)
+Path 1: Dallas -> Los Angeles -> San Francisco. Time: 320.00 Cost: 460.00
+Path 2: Dallas -> Austin -> San Francisco. Time: 342.00 Cost: 523.00
+Path 3: Dallas -> Austin -> Chicago -> Los Angeles -> San Francisco. Time: 559.00 Cost: 632.00
+
+Flight 2: Houston, New York (Cost)
+Path 1: Houston -> New York. Time: 400.00 Cost: 560.00
+
+Flight 3: Chicago, Miami (Time)
+Path 1: Chicago -> Miami. Time: 270.00 Cost: 410.00
+Path 2: Chicago -> Houston -> New Orleans -> Miami. Time: 340.00 Cost: 420.00
+Path 3: Chicago -> Houston -> New York -> Miami. Time: 760.00 Cost: 1000.00
+
+Flight 4: Los Angeles, Cancun (Time)
+Path 1: Los Angeles -> Las Vegas -> Phoenix -> Denver -> Chicago -> Miami -> Havana -> Cancun. Time: 835.00 Cost: 1240.00
+Path 2: Los Angeles -> Las Vegas -> Phoenix -> Denver -> Chicago -> Miami -> Havana -> Cancun. Time: 835.00 Cost: 1240.00
+Path 3: Los Angeles -> Las Vegas -> Phoenix -> Denver -> Chicago -> Miami -> Havana -> Cancun. Time: 835.00 Cost: 1240.00
+
+Flight 5: Phoenix, Denver (Cost)
+Path 1: Phoenix -> Albuquerque -> Denver. Time: 105.00 Cost: 130.00
+Path 2: Phoenix -> Denver. Time: 95.00 Cost: 130.00
+
+Flight 6: Vancouver, Calgary (Time)
+Path 1: Vancouver -> Calgary. Time: 60.00 Cost: 80.00
+Path 2: Vancouver -> Calgary. Time: 60.00 Cost: 80.00
+
+Flight 7: Paris, Cozumel (Time)
+No Path Found
+
+Flight 8: Denver, Chicago (Cost)
+Path 1: Denver -> Chicago. Time: 140.00 Cost: 200.00
+
+Flight 9: Calgary, Edmonton (Time)
+Path 1: Calgary -> Edmonton. Time: 50.00 Cost: 70.00
+Path 2: Calgary -> Edmonton. Time: 50.00 Cost: 70.00
+
+Flight 10: Rome, Athens (Cost)
+Path 1: Rome -> Athens. Time: 120.00 Cost: 160.00
+
+Flight 11: Cozumel, Toronto (Cost)
+No Path Found
+
+Flight 12: Edmonton, Montreal (Cost)
+No Path Found
+
+Flight 13: Istanbul, Dubai (Time)
+Path 1: Istanbul -> Dubai. Time: 180.00 Cost: 220.00
+
+Flight 14: Cancun, Merida (Cost)
+Path 1: Cancun -> Merida. Time: 70.00 Cost: 90.00
+
+Flight 15: Montreal, Quebec City (Time)
+Path 1: Montreal -> Quebec City. Time: 50.00 Cost: 70.00
+Path 2: Montreal -> Quebec City. Time: 50.00 Cost: 70.00
+
+Flight 16: Dubai, Belize City (Time)
+No Path Found
+
+Flight 17: Quebec City, Delhi (Time)
+No Path Found
+
+Flight 18: Belize City, Guatemala City (Cost)
+Path 1: Belize City -> Guatemala City. Time: 80.00 Cost: 100.00
+
+Flight 19: Halifax, St. John's (Time)
+Path 1: Halifax -> St. John's. Time: 45.00 Cost: 60.00
+
+Flight 20: Delhi, Kolkata (Cost)
+Path 1: Delhi -> Kolkata. Time: 100.00 Cost: 130.00
+
+Flight 21: Guatemala City, San Salvador (Time)
+Path 1: Guatemala City -> San Salvador. Time: 90.00 Cost: 110.00
+
+Flight 22: St. John's, Reykjavik (Cost)
+Path 1: St. John's -> Reykjavik. Time: 90.00 Cost: 120.00
+
+Flight 23: Kolkata, Dhaka (Time)
+Path 1: Kolkata -> Dhaka. Time: 70.00 Cost: 90.00
+
+Flight 24: San Salvador, Yangon (Cost)
+No Path Found
+
+Flight 25: Managua, San Jose (Time)
+Path 1: Managua -> San Jose. Time: 60.00 Cost: 75.00
+
+Flight 26: Oslo, Stockholm (Cost)
+Path 1: Oslo -> Stockholm. Time: 55.00 Cost: 70.00
+
+Flight 27: Yangon, Bangkok (Time)
+Path 1: Yangon -> Bangkok. Time: 45.00 Cost: 60.00
+
+Flight 28: San Jose, Panama City (Cost)
+Path 1: San Jose -> Panama City. Time: 70.00 Cost: 90.00
+
+Flight 29: Stockholm, Helsinki (Time)
+Path 1: Stockholm -> Helsinki. Time: 40.00 Cost: 50.00
+
+Flight 30: Bangkok, Medellin (Time)
+No Path Found
+
+Flight 31: Helsinki, St. Petersburg (Cost)
+Path 1: Helsinki -> St. Petersburg. Time: 70.00 Cost: 80.00
+
+Flight 32: Phnom Penh, Ho Chi Minh City (Time)
+Path 1: Phnom Penh -> Ho Chi Minh City. Time: 50.00 Cost: 60.00
+
+Flight 33: Medellin, Bogota (Cost)
+Path 1: Medellin -> Bogota. Time: 35.00 Cost: 45.00
+
+Flight 34: St. Petersburg, Caracas (Time)
+No Path Found
+
+Flight 35: Moscow, Kiev (Cost)
+Path 1: Moscow -> Kiev. Time: 55.00 Cost: 70.00
+
+Flight 36: Hanoi, Hai Phong (Time)
+Path 1: Hanoi -> Hai Phong. Time: 35.00 Cost: 40.00
+
+Flight 37: Caracas, Bogota (Cost)
+Path 1: Caracas -> Bogota. Time: 70.00 Cost: 90.00
+
+Flight 38: Kiev, Lviv (Time)
+Path 1: Kiev -> Lviv. Time: 40.00 Cost: 45.00
+
+Flight 39: Hai Phong, Da Nang (Cost)
+Path 1: Hai Phong -> Da Nang. Time: 25.00 Cost: 30.00
+
+Flight 40: New York, Chicago (Time)
+Path 1: New York -> Chicago. Time: 180.00 Cost: 200.00
+
+Flight 41: Chicago, Los Angeles (Cost)
+Path 1: Chicago -> Los Angeles. Time: 220.00 Cost: 250.00
+
+Flight 42: Los Angeles, Seattle (Cost)
+Path 1: Los Angeles -> San Francisco -> Seattle. Time: 280.00 Cost: 350.00
+Path 2: Los Angeles -> San Francisco -> Seattle. Time: 280.00 Cost: 350.00
+Path 3: Los Angeles -> Las Vegas -> Phoenix -> Albuquerque -> Denver -> Chicago -> Houston -> New York -> Boston -> Portland -> Seattle. Time: 1115.00 Cost: 1525.00
+
+Flight 43: New York, Toronto (Time)
+Path 1: New York -> Toronto. Time: 75.00 Cost: 90.00
+Path 2: New York -> Chicago -> Toronto. Time: 300.00 Cost: 380.00
+
+Flight 44: Toronto, Quebec City (Time)
+Path 1: Toronto -> Montreal -> Quebec City. Time: 110.00 Cost: 160.00
+Path 2: Toronto -> Montreal -> Quebec City. Time: 110.00 Cost: 160.00
+Path 3: Toronto -> Montreal -> Quebec City. Time: 110.00 Cost: 160.00
+
+Flight 45: New York, Miami (Cost)
+Path 1: New York -> Miami. Time: 180.00 Cost: 220.00
+Path 2: New York -> Chicago -> Miami. Time: 450.00 Cost: 610.00
+Path 3: New York -> Chicago -> Houston -> New Orleans -> Miami. Time: 520.00 Cost: 620.00
+
+Flight 46: Miami, Orlando (Time)
+Path 1: Miami -> Orlando. Time: 35.00 Cost: 45.00
+
+Flight 47: Orlando, Tampa (Cost)
+Path 1: Orlando -> Tampa. Time: 50.00 Cost: 60.00
+
+Flight 48: Miami, Key West (Time)
+Path 1: Miami -> Key West. Time: 25.00 Cost: 30.00
+
+Flight 49: Los Angeles, Las Vegas (Cost)
+Path 1: Los Angeles -> Las Vegas. Time: 60.00 Cost: 95.00
+Path 2: Los Angeles -> Las Vegas. Time: 60.00 Cost: 95.00
+
+Flight 50: Las Vegas, Phoenix (Time)
+Path 1: Las Vegas -> Phoenix. Time: 70.00 Cost: 105.00
+Path 2: Las Vegas -> Phoenix. Time: 70.00 Cost: 105.00
+
+Flight 51: Phoenix, Albuquerque (Cost)
+Path 1: Phoenix -> Albuquerque. Time: 45.00 Cost: 55.00
+
+Flight 52: Albuquerque, Denver (Time)
+Path 1: Albuquerque -> Denver. Time: 60.00 Cost: 75.00
+
+Flight 53: Denver, Vancouver (Time)
+Path 1: Denver -> Chicago -> Los Angeles -> San Francisco -> Seattle -> Vancouver. Time: 685.00 Cost: 890.00
+Path 2: Denver -> Chicago -> Los Angeles -> San Francisco -> Seattle -> Vancouver. Time: 685.00 Cost: 890.00
+Path 3: Denver -> Chicago -> Los Angeles -> San Francisco -> Seattle -> Vancouver. Time: 685.00 Cost: 890.00
+
+Flight 54: Vancouver, Edmonton (Time)
+Path 1: Vancouver -> Calgary -> Edmonton. Time: 110.00 Cost: 150.00
+Path 2: Vancouver -> Calgary -> Edmonton. Time: 110.00 Cost: 150.00
+Path 3: Vancouver -> Calgary -> Edmonton. Time: 110.00 Cost: 150.00
+
+Flight 55: San Francisco, Los Angeles (Cost)
+Path 1: San Francisco -> Los Angeles. Time: 100.00 Cost: 130.00
+
+Flight 56: Chicago, Houston (Time)
+Path 1: Chicago -> Houston. Time: 180.00 Cost: 220.00
+
+Flight 57: Houston, Miami (Time)
+Path 1: Houston -> New Orleans -> Miami. Time: 160.00 Cost: 200.00
+Path 2: Houston -> New York -> Miami. Time: 580.00 Cost: 780.00
+Path 3: Houston -> New York -> Chicago -> Miami. Time: 850.00 Cost: 1170.00
+
+Flight 58: New York, Boston (Cost)
+Path 1: New York -> Boston. Time: 60.00 Cost: 80.00
+
+Flight 59: Boston, Portland (Time)
+Path 1: Boston -> Portland. Time: 55.00 Cost: 75.00
+
+Flight 60: Portland, Seattle (Cost)
+Path 1: Portland -> Seattle. Time: 45.00 Cost: 60.00
+
+Flight 61: Los Angeles, Beijing (Cost)
+Path 1: Los Angeles -> Honolulu -> Tokyo -> Seoul -> Beijing. Time: 755.00 Cost: 950.00
+
+Flight 62: Beijing, Singapore (Cost)
+Path 1: Beijing -> Shanghai -> Hong Kong -> Bangkok -> Singapore. Time: 290.00 Cost: 380.00
+
+Flight 63: Singapore, Kuala Lumpur (Time)
+Path 1: Singapore -> Kuala Lumpur. Time: 30.00 Cost: 40.00
+
+Flight 64: Kuala Lumpur, Jakarta (Cost)
+Path 1: Kuala Lumpur -> Jakarta. Time: 55.00 Cost: 70.00
+
+Flight 65: Jakarta, Bali (Time)
+Path 1: Jakarta -> Bali. Time: 35.00 Cost: 45.00
+
+Flight 66: Bali, Sydney (Cost)
+Path 1: Bali -> Sydney. Time: 160.00 Cost: 210.00
+
+Flight 67: Sydney, Melbourne (Time)
+Path 1: Sydney -> Melbourne. Time: 60.00 Cost: 80.00
+
+Flight 68: Melbourne, Auckland (Cost)
+Path 1: Melbourne -> Auckland. Time: 110.00 Cost: 140.00
+

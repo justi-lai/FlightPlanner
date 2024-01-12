@@ -1,0 +1,69 @@
+68
+Dallas|San Francisco|T
+Houston|New York|C
+Chicago|Miami|T
+Los Angeles|Cancun|T
+Phoenix|Denver|C
+Vancouver|Calgary|T
+Paris|Cozumel|T
+Denver|Chicago|C
+Calgary|Edmonton|T
+Rome|Athens|C
+Cozumel|Toronto|C
+Edmonton|Montreal|C
+Istanbul|Dubai|T
+Cancun|Merida|C
+Montreal|Quebec City|T
+Dubai|Belize City|T
+Quebec City|Delhi|T
+Belize City|Guatemala City|C
+Halifax|St. John's|T
+Delhi|Kolkata|C
+Guatemala City|San Salvador|T
+St. John's|Reykjavik|C
+Kolkata|Dhaka|T
+San Salvador|Yangon|C
+Managua|San Jose|T
+Oslo|Stockholm|C
+Yangon|Bangkok|T
+San Jose|Panama City|C
+Stockholm|Helsinki|T
+Bangkok|Medellin|T
+Helsinki|St. Petersburg|C
+Phnom Penh|Ho Chi Minh City|T
+Medellin|Bogota|C
+St. Petersburg|Caracas|T
+Moscow|Kiev|C
+Hanoi|Hai Phong|T
+Caracas|Bogota|C
+Kiev|Lviv|T
+Hai Phong|Da Nang|C
+New York|Chicago|T
+Chicago|Los Angeles|C
+Los Angeles|Seattle|C
+New York|Toronto|T
+Toronto|Quebec City|T
+New York|Miami|C
+Miami|Orlando|T
+Orlando|Tampa|C
+Miami|Key West|T
+Los Angeles|Las Vegas|C
+Las Vegas|Phoenix|T
+Phoenix|Albuquerque|C
+Albuquerque|Denver|T
+Denver|Vancouver|T
+Vancouver|Edmonton|T
+San Francisco|Los Angeles|C
+Chicago|Houston|T
+Houston|Miami|T
+New York|Boston|C
+Boston|Portland|T
+Portland|Seattle|C
+Los Angeles|Beijing|C
+Beijing|Singapore|C
+Singapore|Kuala Lumpur|T
+Kuala Lumpur|Jakarta|C
+Jakarta|Bali|T
+Bali|Sydney|C
+Sydney|Melbourne|T
+Melbourne|Auckland|C
